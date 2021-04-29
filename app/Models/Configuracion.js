@@ -18,5 +18,5 @@ let Configuraciones = mongoose.Schema({
   timestamps: true
 })
 
-module.exports = mongoose.model('Configuraciones', Configuraciones)
+module.exports = mongoose.model('angel', Configuraciones)
 
